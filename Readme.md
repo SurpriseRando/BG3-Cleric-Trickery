@@ -1,15 +1,31 @@
-# Sample Template Mod
-[![GitHub release](https://img.shields.io/github/v/tag/BG3-Community-Library-Team/Sample-Template?label=Latest%20Version)](https://GitHub.com/BG3-Community-Library-Team/Sample-Template/releases/) [![GitHub commits](https://img.shields.io/github/commits-since/BG3-Community-Library-Team/Sample-Template/1.0.0/main)](https://GitHub.com/BG3-Community-Library-Team/Sample-Template/commit/)
 
-This is a Readme Template. Replace this paragraph with an introduction to your mod, and a short description to help users and potential collaborators understand understand it's purpose.
+# Clerics Subclass Update by SurpriseMF & Rando
 
-## Note For Mod Authors:
-You're welcome to use this mod as a template for your own creations. In GitHub, hit the "Fork" button, and it will walk you through creating your own Repository, which you can Clone to your PC and start modding with.
+Version 0.1.0.0
 
-[![GitHub forks](https://img.shields.io/github/forks/BG3-Community-Library-Team/Sample-Template)](https://GitHub.com/BG3-Community-Library-Team/Sample-Template/network/)
+## Required Mods
+- [https://www.nexusmods.com/baldursgate3/mods/432](Cleric Subclasses) 2.0.29.0.
+- [https://www.nexusmods.com/baldursgate3/mods/125](5e Spells).
+- [https://www.nexusmods.com/baldursgate3/mods/141](BG3 Mod Fixer).
 
-## Contributing
-If you want people to be able to contribute to your mod, explain how here.
+## Adjustment
+
+### Trickery Domain
+
+#### Domain Spells List
+
+| Spell Level | Spells Added |
+| - | - |
+| 1 | Charm Person, Disguise Self |
+| 2 | Invisibility, Phantasmal Force |
+| 3 | Hypnotic Pattern, Enemies Abound |
+| 4 | Phantasmal Killer, Dimension Door |
+| 5 | Dominate Person, Hold Monster |
+
+#### Invoke Duplicity
+- Removed Concentration requirement.
+
+---
 
 ## Installation
 This mod works with [Baldur's Gate 3 Mod Manager](https://github.com/LaughingLeader/BG3ModManager), and possibly Vortex and Manual
@@ -20,9 +36,9 @@ Installations. BG3 Mod Managers is by far the simplest method, and as such is re
 ### BG3 Mod Manager
 1. Download the latest release, and unzip the .pak file.
 2. Open BG3 Mod Manager, click File->Import Mod.
-3. Select ModName.pak.
+3. Select SMFR-ClericsUpdate.pak.
 5. Once imported hit refresh.
-6. Drag ModName to the top of the Left pane.
+6. Drag SMFR-ClericsUpdate to the Left pane below Clerics.
 8. Hit "Save Load Order to File."
 
 ## Recommended Mod Management Tools
@@ -41,3 +57,26 @@ Installations. BG3 Mod Managers is by far the simplest method, and as such is re
 - The Baldur's Gate 3 Modding Community.
 - [https://github.com/ShinyHobo](ShinyHobo) for their work easing the process of creating .pak files.
 - Alana for the creation of the Mod Manager Compatibility Images.
+- [https://github.com/BG3-Community-Library-Team](BG3-Community-Library-Team) for the Sample Template Mod.
+- Baltavi for the Clerics Subclasses Mod.
+
+---
+
+# Changelog
+
+## Version 0.1.0.0
+
+### Trickery Domain
+
+#### Domain Spells List
+
+| Spell Level | Spells Added |
+| - | - |
+| 1 | Charm Person, Disguise Self |
+| 2 | Invisibility, Phantasmal Force |
+| 3 | Hypnotic Pattern, Enemies Abound |
+| 4 | Phantasmal Killer, Dimension Door |
+| 5 | Dominate Person, Hold Monster |
+
+#### Invoke Duplicity
+- Removed Concentration requirement.

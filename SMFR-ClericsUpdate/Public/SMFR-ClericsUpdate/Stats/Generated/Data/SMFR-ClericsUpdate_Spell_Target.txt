@@ -1,0 +1,9 @@
+new entry "Target_InvokeDuplicity"
+type "SpellData"
+using "Target_InvokeDuplicity"
+data "SpellFlags" "CannotTargetItems;CannotTargetCharacter"
+
+new entry "Target_ImprovedInvokeDuplicity"
+type "SpellData"
+using "Target_ImprovedInvokeDuplicity"
+data "SpellFlags" "CannotTargetItems;CannotTargetCharacter"
