@@ -4,9 +4,9 @@
 Version 0.1.0.0
 
 ## Required Mods
-- [https://www.nexusmods.com/baldursgate3/mods/432](Cleric Subclasses) 2.0.29.0.
-- [https://www.nexusmods.com/baldursgate3/mods/125](5e Spells).
-- [https://www.nexusmods.com/baldursgate3/mods/141](BG3 Mod Fixer).
+- [Cleric Subclasses](https://www.nexusmods.com/baldursgate3/mods/432) 2.0.29.0.
+- [5e Spells](https://www.nexusmods.com/baldursgate3/mods/125).
+- [BG3 Mod Fixer](https://www.nexusmods.com/baldursgate3/mods/141).
 
 ## Adjustment
 
@@ -55,9 +55,9 @@ Installations. BG3 Mod Managers is by far the simplest method, and as such is re
 ## Acknowledgements
 - Larian Software, for working on Baldur's Gate 3 and bringing 5th Edition to PC.
 - The Baldur's Gate 3 Modding Community.
-- [https://github.com/ShinyHobo](ShinyHobo) for their work easing the process of creating .pak files.
+- [ShinyHobo](https://github.com/ShinyHobo) for their work easing the process of creating .pak files.
 - Alana for the creation of the Mod Manager Compatibility Images.
-- [https://github.com/BG3-Community-Library-Team](BG3-Community-Library-Team) for the Sample Template Mod.
+- [BG3-Community-Library-Team](https://github.com/BG3-Community-Library-Team) for the Sample Template Mod.
 - Baltavi for the Clerics Subclasses Mod.
 
 ---
