@@ -5,7 +5,7 @@ Version 0.1.1.0
 
 ## Mods
 
-| Name | ⚠️: Required <br> ✅: Recommended | Downloads |  |
+| Name | ⚠️: Req. <br> ✅: Rec. | Downloads |  |
 | - | -| - | - |
 | BG3 Mod Fixer | ⚠️ |[Nexus Mods](https://www.nexusmods.com/baldursgate3/mods/141) | | 
 | 5e Spells | ✅ |[Nexus Mods](https://www.nexusmods.com/baldursgate3/mods/125) |
@@ -20,14 +20,14 @@ Version 0.1.1.0
 
 #### Domain Spells List
 
-| Spell <br> Level  | Domain Spell <br> 1 | <br> 2|
-| - | - | - |
-| 0 | **Minor Illusion** |
-| 1 | Charm Person | Disguise Self |
-| 2 | Pass Without Trace | **Phantasmal Force** |
-| 3 | **Hypnotic Pattern** | **Enemies Abound** |
-| 4 | **Phantasmal Killer** | Dimension Door |
-| 5 | Dominate Person | **Hold Monster** |
+| Spell <br> Level  | Domain <br> Spells |  |  |  
+| - | - | - | - |
+| 0 | ___Minor Illusion___ |
+| 1 | Charm Person | Disguise Self | 
+| 2 | Pass Without Trace |  Mirror Image | ___Phantasmal Force___ |
+| 3 | ___Hypnotic Pattern___ | ___Enemies Abound___ |
+| 4 |  Dimension Door | ___Phantasmal Killer___ |
+| 5 | Dominate Person | ___Hold Monster___ |
 
 #### Invoke Duplicity
 - Removed Concentration requirement.
@@ -71,17 +71,32 @@ Installations. BG3 Mod Managers is by far the simplest method, and as such is re
 
 # Changelog
 
+## Version 0.1.1.1
+
+### Trickery Domain
+
+#### Domain Spells List
+
+| Spell <br> Level  | Domain <br> Spells  | | ➕ |
+| - | - | - | - |
+| 0 | Minor Illusion |
+| 1 | Charm Person | Disguise Self |
+| 2 | Pass Without Trace | Phantasmal Force | ___Mirror Image___ |
+| 3 | Hypnotic Pattern | Enemies Abound |
+| 4 | Phantasmal Killer | Dimension Door |
+| 5 | Dominate Person | Hold Monster |
+
 ## Version 0.1.1.0
 
 ### Trickery Domain
 
 #### Domain Spells List
 
-| Spell <br> Level  | Domain Spell <br> 1 | <br> 2|
-| - | - | - |
-| 0 | **Minor Illusion** |
+| Spell <br> Level  | Domain <br> Spells  | | ➕ |
+| - | - | - | - |
+| 0 | ||___Minor Illusion___ |
 | 1 | Charm Person | Disguise Self |
-| 2 | ~~Invisibility~~ **Pass Without Trace** | Phantasmal Force |
+| 2 | ~~Invisibility~~  | Phantasmal Force | ___Pass Without Trace___ |
 | 3 | Hypnotic Pattern | Enemies Abound |
 | 4 | Phantasmal Killer | Dimension Door |
 | 5 | Dominate Person | Hold Monster |
@@ -93,13 +108,13 @@ Installations. BG3 Mod Managers is by far the simplest method, and as such is re
 
 #### Domain Spells List
 
-| Spell <br> Level  | Domain Spell <br> 1 | <br> 2|
-| - | - | - |
+| Spell <br> Level  | Domain <br> Spells  | | ➕ | |
+| - | - | - | - | - |
 | 1 | Charm Person | Disguise Self |
-| 2 | ~~Mirror Image~~ **Invisibility** | ~~Pass Without Trace~~ **Phantasmal Force** |
-| 3 | ~~Bestow Curse~~ **Hypnotic Pattern** | ~~Fear~~ **Enemies Abound** |
-| 4 | ~~Polymorph~~ **Phantasmal Killer** | Dimension Door |
-| 5 | Dominate Person | ~~Seeming~~ **Hold Monster** |
+| 2 | ~~Mirror Image~~  | ~~Pass Without Trace~~ | __Phantasmal Force__ | ___Invisibility___ |
+| 3 | ~~Bestow Curse~~ | ~~Fear~~ | ___Hypnotic Pattern___ | ___Enemies Abound___ |
+| 4 | ~~Polymorph~~  | Dimension Door | ___Phantasmal Killer___ |
+| 5 | Dominate Person | ~~Seeming~~ | ___Hold Monster___ |
 
 #### Invoke Duplicity
 - Removed Concentration requirement.

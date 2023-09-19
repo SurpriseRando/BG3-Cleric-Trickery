@@ -6,7 +6,7 @@
             <children>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Cleric, Trickery Domain spell scroll list"/>
-                    <attribute id="Spells" type="LSString" value="Target_MinorIllusion;Target_CharmPerson;Shout_DisguiseSelf;Shout_PassWithoutTrace;Target_PhantasmalForce;Target_HypnoticPattern;Target_EnemiesAbound;Target_PhantasmalKiller;Teleportation_DimensionDoor;Target_DominatePerson;Target_HoldMonster"/>
+                    <attribute id="Spells" type="LSString" value="Target_MinorIllusion;Target_CharmPerson;Shout_DisguiseSelf;Shout_PassWithoutTrace;Target_PhantasmalForce;Target_HypnoticPattern;Target_EnemiesAbound;Target_PhantasmalKiller;Shout_MirrorImage;Teleportation_DimensionDoor;Target_DominatePerson;Target_HoldMonster"/>
                     <attribute id="UUID" type="guid" value="25157f12-3bfb-4df0-a322-a3109066037a"/>
                 </node>
                 <node id="SpellList">
@@ -16,7 +16,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Cleric Trickery Domain 2"/>
-                    <attribute id="Spells" type="LSString" value="Shout_PassWithoutTrace;Target_PhantasmalForce"/>
+                    <attribute id="Spells" type="LSString" value="Shout_PassWithoutTrace;Shout_MirrorImage;Target_PhantasmalForce"/>
                     <attribute id="UUID" type="guid" value="9f603ac8-2e51-4ce9-b924-c8093148bdf5"/>
                 </node>
                 <node id="SpellList">
