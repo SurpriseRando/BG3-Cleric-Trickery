@@ -1,26 +1,33 @@
 
 # Clerics Subclass Update by SurpriseMF & Rando
 
-Version 0.1.0.0
+Version 0.1.1.0
 
-## Required Mods
-- [Cleric Subclasses](https://www.nexusmods.com/baldursgate3/mods/432) 2.0.29.0.
-- [5e Spells](https://www.nexusmods.com/baldursgate3/mods/125).
-- [BG3 Mod Fixer](https://www.nexusmods.com/baldursgate3/mods/141).
+## Mods
 
-## Adjustment
+| Name | ⚠️: Required <br> ✅: Recommended | Downloads |  |
+| - | -| - | - |
+| BG3 Mod Fixer | ⚠️ |[Nexus Mods](https://www.nexusmods.com/baldursgate3/mods/141) | | 
+| 5e Spells | ✅ |[Nexus Mods](https://www.nexusmods.com/baldursgate3/mods/125) |
+| Cleric Subclasses | ✅ |[Nexus Mods](https://www.nexusmods.com/baldursgate3/mods/432) |
+| Baldur's Gate 3 Community Library | ✅  | [Nexus Mods](https://www.nexusmods.com/baldursgate3/mods/1333) | [GitHub](https://github.com/BG3-Community-Library-Team/BG3-Community-Library) |
+| Subclass Compatibility Framework | ✅ | [Nexus Mods](https://www.nexusmods.com/baldursgate3/mods/1933) | [GitHub](https://github.com/BG3-Community-Library-Team/BG3-Subclass-Compatibility-Framework) |
+
+
+## Adjustments
 
 ### Trickery Domain
 
 #### Domain Spells List
 
-| Spell Level | Spells Added |
-| - | - |
-| 1 | Charm Person, Disguise Self |
-| 2 | Invisibility, Phantasmal Force |
-| 3 | Hypnotic Pattern, Enemies Abound |
-| 4 | Phantasmal Killer, Dimension Door |
-| 5 | Dominate Person, Hold Monster |
+| Spell <br> Level  | Domain Spell <br> 1 | <br> 2|
+| - | - | - |
+| 0 | **Minor Illusion** |
+| 1 | Charm Person | Disguise Self |
+| 2 | Pass Without Trace | **Phantasmal Force** |
+| 3 | **Hypnotic Pattern** | **Enemies Abound** |
+| 4 | **Phantasmal Killer** | Dimension Door |
+| 5 | Dominate Person | **Hold Monster** |
 
 #### Invoke Duplicity
 - Removed Concentration requirement.
@@ -64,19 +71,35 @@ Installations. BG3 Mod Managers is by far the simplest method, and as such is re
 
 # Changelog
 
+## Version 0.1.1.0
+
+### Trickery Domain
+
+#### Domain Spells List
+
+| Spell <br> Level  | Domain Spell <br> 1 | <br> 2|
+| - | - | - |
+| 0 | **Minor Illusion** |
+| 1 | Charm Person | Disguise Self |
+| 2 | ~~Invisibility~~ **Pass Without Trace** | Phantasmal Force |
+| 3 | Hypnotic Pattern | Enemies Abound |
+| 4 | Phantasmal Killer | Dimension Door |
+| 5 | Dominate Person | Hold Monster |
+
+
 ## Version 0.1.0.0
 
 ### Trickery Domain
 
 #### Domain Spells List
 
-| Spell Level | Spells Added |
-| - | - |
-| 1 | Charm Person, Disguise Self |
-| 2 | Invisibility, Phantasmal Force |
-| 3 | Hypnotic Pattern, Enemies Abound |
-| 4 | Phantasmal Killer, Dimension Door |
-| 5 | Dominate Person, Hold Monster |
+| Spell <br> Level  | Domain Spell <br> 1 | <br> 2|
+| - | - | - |
+| 1 | Charm Person | Disguise Self |
+| 2 | ~~Mirror Image~~ **Invisibility** | ~~Pass Without Trace~~ **Phantasmal Force** |
+| 3 | ~~Bestow Curse~~ **Hypnotic Pattern** | ~~Fear~~ **Enemies Abound** |
+| 4 | ~~Polymorph~~ **Phantasmal Killer** | Dimension Door |
+| 5 | Dominate Person | ~~Seeming~~ **Hold Monster** |
 
 #### Invoke Duplicity
 - Removed Concentration requirement.
