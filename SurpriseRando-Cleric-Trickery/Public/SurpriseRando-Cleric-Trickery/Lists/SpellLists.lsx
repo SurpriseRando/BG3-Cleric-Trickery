@@ -10,6 +10,16 @@
                     <attribute id="UUID" type="guid" value="25157f12-3bfb-4df0-a322-a3109066037a"/>
                 </node>
                 <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Cleric Trickery Domain"/>
+                    <attribute id="Spells" type="LSString" value="Target_BlessingOfTheTrickster;Target_MinorIllusion;Target_CharmPerson;Shout_DisguiseSelf"/>
+                    <attribute id="UUID" type="guid" value="98ef625f-d127-4fc3-8e37-37a4b27e6393"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Cleric Trickery Domain 2"/>
+                    <attribute id="Spells" type="LSString" value="Shout_PassWithoutTrace;Shout_MirrorImage;Target_PhantasmalForce"/>
+                    <attribute id="UUID" type="guid" value="9f603ac8-2e51-4ce9-b924-c8093148bdf5"/>
+                </node>
+                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Cleric Trickery Domain 5"/>
                     <attribute id="Spells" type="LSString" value="Target_HypnoticPattern;Target_EnemiesAbound"/>
                     <attribute id="UUID" type="guid" value="8a9faf7a-aacf-43f4-a0dd-5ea7e72449f3"/>
