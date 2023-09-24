@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="5" build="0"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Cleric, Trickery Domain spell scroll list"/>
+                    <attribute id="Spells" type="LSString" value="Target_MinorIllusion;Target_CharmPerson;Shout_DisguiseSelf;Shout_PassWithoutTrace;Target_PhantasmalForce;Target_HypnoticPattern;Target_EnemiesAbound;Target_PhantasmalKiller;Shout_MirrorImage;Teleportation_DimensionDoor;Target_DominatePerson;Target_HoldMonster"/>
+                    <attribute id="UUID" type="guid" value="25157f12-3bfb-4df0-a322-a3109066037a"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Cleric Trickery Domain 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_HypnoticPattern;Target_EnemiesAbound"/>
+                    <attribute id="UUID" type="guid" value="8a9faf7a-aacf-43f4-a0dd-5ea7e72449f3"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Cleric Trickery Domain 7"/>
+                    <attribute id="Spells" type="LSString" value="Target_PhantasmalKiller;Teleportation_DimensionDoor"/>
+                    <attribute id="UUID" type="guid" value="18e97e4a-d97b-4595-af80-8eb43766386e"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Cleric Trickery Domain 9"/>
+                    <attribute id="Spells" type="LSString" value="Target_DominatePerson;Target_HoldMonster"/>
+                    <attribute id="UUID" type="guid" value="154b461e-23c2-4147-97fd-b7892f031a50"/>
+                </node>
+            </children>
+		</node>
+    </region>
+</save>
+                

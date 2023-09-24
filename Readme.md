@@ -1,24 +1,23 @@
 
-# Clerics Subclass Update by SurpriseMF & Rando
+# Cleric Trickery Subclass Update
 
-Version 0.1.1.1
+Version 0.1.2.0
 
 ## Mods
 
 | Name | ⚠️: Req. <br> ✅: Rec. | Downloads |  |
 | - | -| - | - |
 | BG3 Mod Fixer | ⚠️ |[Nexus Mods](https://www.nexusmods.com/baldursgate3/mods/141) | | 
+| Subclass Compatibility Framework | ⚠️ | [Nexus Mods](https://www.nexusmods.com/baldursgate3/mods/1933) | [GitHub](https://github.com/BG3-Community-Library-Team/BG3-Subclass-Compatibility-Framework) |
+| Baldur's Gate 3 Community Library | ✅  | [Nexus Mods](https://www.nexusmods.com/baldursgate3/mods/1333) | [GitHub](https://github.com/BG3-Community-Library-Team/BG3-Community-Library) |
 | 5e Spells | ✅ |[Nexus Mods](https://www.nexusmods.com/baldursgate3/mods/125) |
 | Cleric Subclasses | ✅ |[Nexus Mods](https://www.nexusmods.com/baldursgate3/mods/432) |
-| Baldur's Gate 3 Community Library | ✅  | [Nexus Mods](https://www.nexusmods.com/baldursgate3/mods/1333) | [GitHub](https://github.com/BG3-Community-Library-Team/BG3-Community-Library) |
-| Subclass Compatibility Framework | ✅ | [Nexus Mods](https://www.nexusmods.com/baldursgate3/mods/1933) | [GitHub](https://github.com/BG3-Community-Library-Team/BG3-Subclass-Compatibility-Framework) |
+
 
 
 ## Adjustments
 
-### Trickery Domain
-
-#### Domain Spells List
+### Domain Spells List
 
 | Spell <br> Level  | Domain <br> Spells |  |  |  
 | - | - | - | - |
@@ -29,7 +28,7 @@ Version 0.1.1.1
 | 4 |  Dimension Door | ___Phantasmal Killer___ |
 | 5 | Dominate Person | ___Hold Monster___ |
 
-#### Invoke Duplicity
+### Invoke Duplicity
 - Removed Concentration requirement.
 
 ---
@@ -43,9 +42,9 @@ Installations. BG3 Mod Managers is by far the simplest method, and as such is re
 ### BG3 Mod Manager
 1. Download the latest release, and unzip the .pak file.
 2. Open BG3 Mod Manager, click File->Import Mod.
-3. Select SMFR-ClericsUpdate.pak.
+3. Select SurpriseRando-Cleric-Trickery.pak.
 5. Once imported hit refresh.
-6. Drag SMFR-ClericsUpdate to the Left pane below Clerics.
+6. Drag SurpriseRando-Cleric-Trickery to the Left pane.
 8. Hit "Save Load Order to File."
 
 ## Recommended Mod Management Tools
@@ -64,57 +63,39 @@ Installations. BG3 Mod Managers is by far the simplest method, and as such is re
 - The Baldur's Gate 3 Modding Community.
 - [ShinyHobo](https://github.com/ShinyHobo) for their work easing the process of creating .pak files.
 - Alana for the creation of the Mod Manager Compatibility Images.
-- [BG3-Community-Library-Team](https://github.com/BG3-Community-Library-Team) for the Sample Template Mod.
-- Baltavi for the Clerics Subclasses Mod.
+- [BG3-Community-Library-Team](https://github.com/BG3-Community-Library-Team) for Compatibility API.
+
 
 ---
 
 # Changelog
 
+## Version 0.1.2.0
+
+- [Compatibility Framework](https://github.com/BG3-Community-Library-Team/BG3-Subclass-Compatibility-Framework) now required.
+- 
+
+
 ## Version 0.1.1.1
-
-### Trickery Domain
-
-#### Domain Spells List
-
-| Spell <br> Level  | Domain <br> Spells  | | ➕ |
-| - | - | - | - |
-| 0 | Minor Illusion |
-| 1 | Charm Person | Disguise Self |
-| 2 | Pass Without Trace | Phantasmal Force | ___Mirror Image___ |
-| 3 | Hypnotic Pattern | Enemies Abound |
-| 4 | Phantasmal Killer | Dimension Door |
-| 5 | Dominate Person | Hold Monster |
+- Domain spells:
+  - 2: ➕ Mirror Image
 
 ## Version 0.1.1.0
-
-### Trickery Domain
-
-#### Domain Spells List
-
-| Spell <br> Level  | Domain <br> Spells  | | ➕ |
-| - | - | - | - |
-| 0 | ||___Minor Illusion___ |
-| 1 | Charm Person | Disguise Self |
-| 2 | ~~Invisibility~~  | Phantasmal Force | ___Pass Without Trace___ |
-| 3 | Hypnotic Pattern | Enemies Abound |
-| 4 | Phantasmal Killer | Dimension Door |
-| 5 | Dominate Person | Hold Monster |
-
+- Domain spells:
+  - 1: ➕ Cantrip, Minor Illusion
+  - 2: ➖ Invisibility
+  - 2: ➕ Pass Without Trace
+ 
 
 ## Version 0.1.0.0
-
-### Trickery Domain
-
-#### Domain Spells List
-
-| Spell <br> Level  | Domain <br> Spells  | | ➕ | |
-| - | - | - | - | - |
-| 1 | Charm Person | Disguise Self |
-| 2 | ~~Mirror Image~~  | ~~Pass Without Trace~~ | __Phantasmal Force__ | ___Invisibility___ |
-| 3 | ~~Bestow Curse~~ | ~~Fear~~ | ___Hypnotic Pattern___ | ___Enemies Abound___ |
-| 4 | ~~Polymorph~~  | Dimension Door | ___Phantasmal Killer___ |
-| 5 | Dominate Person | ~~Seeming~~ | ___Hold Monster___ |
-
-#### Invoke Duplicity
-- Removed Concentration requirement.
+- Domain spells:
+  - 2: ➖ Mirror Image, Pass Without Trace
+  - 2: ➕ Phantasmal Force, Invisibility
+  - 3: ➖ Bestow Curse, Fear
+  - 3: ➕ Hypnotic Pattern, Enemies Abound
+  - 4: ➖ Polymorph
+  - 4: ➕ Phantasmal Killer
+  - 5: ➖ Seeming
+  - 5: ➕ Hold Monster
+- Invoke Duplicity:
+  - Removed Concentration requirement.
